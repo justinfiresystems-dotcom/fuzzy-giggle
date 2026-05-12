@@ -1,0 +1,21 @@
+<h1>Southeast Skunk Ape Tracker</h1>
+
+<h2>Report a Sighting</h2>
+
+<p>Your Name:</p>
+<input type="text">
+
+<p>Location of Sighting:</p>
+<input type="text">
+
+<p>Describe What You Saw:</p>
+<textarea rows="6" cols="40"></textarea>
+
+<p>Upload Evidence Photo:</p>
+<input type="file">
+
+<br><br>
+
+<button>
+Submit Sighting
+</button>
